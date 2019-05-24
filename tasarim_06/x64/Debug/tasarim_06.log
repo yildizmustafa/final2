@@ -1,0 +1,5 @@
+﻿  tasarim_06.cpp
+c:\users\mustafa\source\repos\tasarim_06\tasarim_06.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mustafa\source\repos\tasarim_06\tasarim_06.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mustafa\source\repos\tasarim_06\tasarim_06.cpp(239): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  tasarim_06.vcxproj -> C:\Users\Mustafa\source\repos\tasarim_06\x64\Debug\tasarim_06.exe
